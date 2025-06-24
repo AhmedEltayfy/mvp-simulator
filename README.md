@@ -1,1 +1,1 @@
-# 🚗 MVP Simulator\n\nBuild MVPs the smart way!
+# 🚗 MVP Simulator\nBuild MVPs the smart way!
